@@ -1,0 +1,11 @@
+id,question,answerable,expected_page,expected_keywords
+1,What is the role of the RTE?,Y,19,communication
+2,What does the Complex Drivers layer do?,Y,17,special purpose
+3,How does the RTE handle vehicle mode requests and mode switches?,Y,146,mode
+4,How does the E2E protection wrapper work with the RTE?,Y,164,E2E
+5,What are the three main software layers in the AUTOSAR architecture?,Y,12,Application;Runtime;Basic Software
+6,What is the Services Layer in AUTOSAR Basic Software?,Y,13,service
+7,What is the purpose of the Microcontroller Abstraction Layer?,Y,15,microcontroller
+8,What does the ECU Abstraction Layer do?,Y,16,31,32,ECU
+9,What is the capital of France?,N,,
+10,Give me a recipe for chocolate cake.,N,,
